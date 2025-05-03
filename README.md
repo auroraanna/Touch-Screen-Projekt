@@ -22,3 +22,13 @@ Touch-Driver edt-ft5x06.c;
 ist aber zu 99% die Linux Mainline Kernel Version. 
 Die einzige Änderung ist, dass der Touch-Treiber in seiner "probe()"-Funktion erst prüft, 
 ob der Display-Treiber geladen wurde. Denn sonst hat der Touch-IC keinen Strom und wird nicht gefunden.
+
+## usecase ideas
+
+- handheld console
+- general purpose touchscreen display via USB-C
+- art project
+	- some interesting shape that has touchscreens on all sides and together they display something knowing their physical location in relation to the other screens
+- permanentely mounted touch screen computer e.g. for the home assistant UI
+
+Incase the idea is to attach a computer to the touchscreen, one probably wants to design a PCB for use with a system on module like e.g. from Raspberry Pi or Rockchip.
