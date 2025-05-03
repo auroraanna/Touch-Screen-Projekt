@@ -1,7 +1,8 @@
-Hirose-Stecker:
-https://www.hirose.com/de/product/document?clcode=CL0580-2412-8-60&productname=FH26W-39S-0.3SHW(60)&series=FH26&documenttype=Catalog&lang=de&documentid=D49355_en
+There is 100+ touchscreens in posession of rolandecho's employer. They can be donated if there is beings that have will use them in a project. If none will take them, they might get thrown away.
 
-https://www.mouser.de/ProductDetail/Hirose-Connector/FH26W-39S-0.3SHW60?qs=vcbW%252B4%252BSTIppYpLJPh73gg%3D%3D
+Unfortunately they are all glued into a plastic case, seemingly impossible to remove with a heat gun because the glue has a higher melting point that the plastic case. Also the plastic case is emits an unpleasant when melted. A viable solution to using the displays is to saw off must of the case.
+
+The touchscreen's only interface is this connector from Hirose: <https://www.hirose.com/de/product/document?clcode=CL0580-2412-8-60&productname=FH26W-39S-0.3SHW(60)&series=FH26&documenttype=Catalog&lang=de&documentid=D49355_en> <https://www.mouser.de/ProductDetail/Hirose-Connector/FH26W-39S-0.3SHW60?qs=vcbW%252B4%252BSTIppYpLJPh73gg%3D%3D>
 
 J342
 
